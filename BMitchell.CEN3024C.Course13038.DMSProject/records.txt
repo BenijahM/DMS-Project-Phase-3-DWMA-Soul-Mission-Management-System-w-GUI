@@ -1,0 +1,23 @@
+234567,Black Star Team,Team,99,1,100.0,true,2026-10-18
+345678,Maka and Soul,Team,85,1,91.5,true,2026-10-15
+456789,Death Scythe Team,Weapon,99,1,100.0,true,2026-10-12
+567890,Stein Training Unit,Meister,42,0,76.0,true,2026-10-10
+678901,Tsubaki Team,Team,63,1,88.0,true,2026-10-14
+789012,Kilik and Fire,Team,91,0,94.5,true,2026-10-16
+890123,Ox Ford Team,Team,28,0,61.0,true,2026-10-08
+901234,Harvar Training Pair,Team,55,1,79.5,true,2026-10-11
+112233,Kim and Jacqueline,Team,72,0,84.0,true,2026-10-13
+223344,Death the Kid Team,Meister,99,1,100.0,true,2026-10-17
+334455,Patty and Liz,Team,88,1,96.0,true,2026-10-16
+445566,Free Mission Unit,Team,12,0,35.5,false,2026-09-20
+556677,Spirit Weapon Record,Weapon,99,1,98.0,true,2026-10-09
+667788,Naigus Training Unit,Meister,34,0,68.5,true,2026-10-07
+778899,Angela Support Team,Team,19,0,42.0,false,2026-09-15
+889900,Hero Training Squad,Team,97,1,99.0,true,2026-10-18
+990011,Resonance Team Alpha,Team,66,0,80.0,true,2026-10-12
+101112,Resonance Team Beta,Team,44,1,73.5,true,2026-10-11
+121314,East Mission Unit,Team,8,0,25.0,false,2026-08-25
+131415,West Mission Unit,Team,50,1,77.0,true,2026-10-05
+141516,North Academy Team,Team,93,0,95.5,true,2026-10-14
+151617,South Academy Team,Team,0,0,15.0,false,2026-07-30
+161718,Advanced Meister Unit,Meister,99,1,100.0,true,2026-10-19
